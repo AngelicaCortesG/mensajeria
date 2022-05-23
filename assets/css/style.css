@@ -75,7 +75,7 @@ i {
 }
 /* sección boton */
 .boxbutton {
-  height: 200%;
+  height: 150%;
   display: flex;
   align-items: center;
   justify-content: center;
